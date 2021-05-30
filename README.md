@@ -1,0 +1,2 @@
+# Online-Book-Store
+This is my web technology final project. We made a multi vendor simple book store. I completed this project with my 3 friends:- Md. Nabobi Shatin, Md. Tanvir Shahriar and Mufrad Mustavi . If you want to browse the project through localhost, import the database file "ketabkhana.sql" in your phpmyadmin and use these username and passwords: *For admin: admin1 ->> 1111 , *For employee: emp1 ->> 1111, *For shop: shop1 ->> 1111, *For user: user1 ->> 1111.
