@@ -1,0 +1,136 @@
+body, html {
+        height: 90%;
+        margin: 0;
+        color: white;
+        font-family: candara;
+      }
+
+      
+      .footer{
+        color: white;
+        height: 7%;
+        background-color: #83888A;
+      }
+      legend{
+        text-align: center;
+        font-weight: bold;
+      }
+
+      h1{
+        text-align: center;
+        color: #34495e;
+      }
+
+      #table {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 60%;
+        margin: auto;
+        color: #34495e;
+        border-radius: 30px;
+        text-align: center;
+        font-weight: bold;
+      }
+
+      #table td, #table th {
+        padding: 10px;
+      }
+
+      #table tr:nth-child(even){background-color: #f2f2f2;}
+      #table tr:nth-child(odd){background-color: #cdcfd0;}
+
+      #table tr:hover {background-color: #ddd;}
+
+      #table th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: center;
+        background-color: #2e4154;
+        color: white;
+      }
+
+      .form {
+        width:400px;
+        margin:  auto;
+        padding:30px;
+        border-radius: 30px;
+        box-shadow: 0px 0px 50px black;
+        background-color: #cdcfd0; 
+        color: #34495e;
+      }
+
+      .form  label {
+        display:block;
+        font-weight: bold;
+      }
+
+      .form  input {
+        display:block;
+        width: 100%;
+        border: 1px solid #000;
+        padding:5px;
+        box-sizing: border-box;
+      }
+
+      .form  textarea {
+        display:block;
+        width: 100%;
+        border: 1px solid #000;
+        padding:5px;
+        box-sizing: border-box;
+        margin-bottom: 10px;
+      }
+
+      #submit{
+        display: inline-block; 
+        padding: 15px 80px;
+        margin-top: 10px;
+        background-color: #eb7d4b;
+        color: #FFF;
+        text-transform: uppercase; 
+        font-weight: 900;
+        border-bottom: 5px solid #c86a40;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+      #srcBtn{
+        display: inline;
+        width: 23%;
+        float: right;
+        background-color: #eb7d4b;
+        text-transform: uppercase;
+        border-bottom: 5px solid #c86a40;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+      #updateBtn{
+        display: inline; 
+        padding: 10px 35px;
+        width: 49% ;
+        background-color: #eb7d4b;
+        color: #FFF;
+        text-transform: uppercase; 
+        font-weight: 900;
+        border-bottom: 5px solid #c86a40;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+      #deleteBtn{
+        display: inline; 
+        padding: 10px 35px;
+        float: right;
+        width: 49% ;
+        background-color: #BB2A2A;
+        color: #FFF;
+        text-transform: uppercase; 
+        font-weight: 900;
+        border-bottom: 5px solid #c86a40;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+        
+        
